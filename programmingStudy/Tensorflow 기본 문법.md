@@ -28,9 +28,9 @@ Tensorflow는 Tensor를 만들고 없애고 조작하는 프로그래밍 모델�
 
 **스칼라 :** 0-d배열(0차원 텐서이다.) ex) 5
 
-**벡터 : **1-d배열(1차원 텐서이다.) ex) [2, 3, 5, 7, 11]
+**벡터 :** 1-d배열(1차원 텐서이다.) ex) [2, 3, 5, 7, 11]
 
-**행렬 : **2-d배열(2차원 텐서이다.) ex) [[3.1, 8.2, 4.9]  [4.3, -2.7, 6.5]]
+**행렬 :** 2-d배열(2차원 텐서이다.) ex) [[3.1, 8.2, 4.9]  [4.3, -2.7, 6.5]]
 
 ****
 
@@ -221,7 +221,7 @@ Shape는 텐서의 크기와 차원 수를 결정한다.
 
 결과는 다음과 같다.
 
-![기본-7](https://github.com/Se-Hun/DeepLearningStudy/tree/master/programmingStudy/png)
+![기본-7](https://github.com/Se-Hun/DeepLearningStudy/blob/master/programmingStudy/png/%EA%B8%B0%EB%B3%B8-7.PNG)
 
 또한, 다음과 같은 코드처럼 차원 수도 변경할 수 있다.
 
